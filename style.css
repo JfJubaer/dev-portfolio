@@ -1,0 +1,8 @@
+body{font-family: 'Arima', cursive; margin: 0px;}
+h1{font-size: 50px;}
+.clss{color: orangered;}
+section{display: flex;}
+.halfwidth{width: 80%; padding: 10%}
+.halfwidth img{width: 80%;}
+.button{text-decoration: none; background-image: linear-gradient(orange,orangered); padding: 10px 40px; border-radius: 10px;font-weight: 700;}
+.topbanner{background-image:url(images/top-banner.png); background-repeat: no-repeat;}

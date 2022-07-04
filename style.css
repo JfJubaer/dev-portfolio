@@ -1,7 +1,7 @@
 body{font-family: 'Arima', cursive; margin: 0px;}
 h1{font-size: 50px;}
 .clss{color: orangered;}
-section{display: flex;
+.flexible{display: flex;
 margin-bottom: 50px;}
 .halfwidth{width: 80%; padding: 10%}
 .halfwidth img{width: 80%;}
@@ -10,3 +10,13 @@ margin-bottom: 50px;}
 .dream{background-image: url(images/dream-bg.png);
 background-repeat:no-repeat ;
 background-position: right;}
+.shadow{ width: 40%; 
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 20px 10px 30px gray;
+    
+    }
+.experiences{background-image: url(images/exp-bg.png); background-repeat: no-repeat; background-position: left;}
+#full{border-left:10px solid blue ;}
+#baby{border-left: 10px solid tomato;}
+footer p{text-align: center;}
